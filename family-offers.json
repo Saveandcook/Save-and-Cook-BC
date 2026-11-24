@@ -1,0 +1,4 @@
+{
+  "offers": [],
+  "note": "Only manually verified BC offers. Required fields: category, brand, product (exact formulation and format), size, quantity, unit (g/ml/count), price (CAD), store, start, expiry (YYYY-MM-DD), source (official URL), verified (boolean). No current offers verified."
+}
